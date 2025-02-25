@@ -1,5 +1,5 @@
 # ebookspider
-用于爬取tongli ebook已购买的漫画，导出为jpg。需要代理到台湾，因此大陆需要网络代理。
+使用Edge浏览器和selenium爬取tongli ebook账号中已购买的漫画，导出为jpg。需要代理到台湾，因此大陆需要网络代理。
 首先需要运行edge并打开调试接口,找到edge.exe程序位置并开启debug接口并设置存储位置。
 ```
 "path/to/msedge.exe" --remote-debugging-port=9222 --user-data-dir="save/path"
