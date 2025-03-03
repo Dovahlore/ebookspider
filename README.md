@@ -1,6 +1,6 @@
 # ebookspider
 ## 功能
-爬取wwb中漫画的canvas元素装换成jpg格式存储。
+爬取web中漫画的canvas元素装换成jpg格式存储。
 ## 东立爬取
 使用Edge浏览器和selenium爬取tongli ebook账号中已购买的漫画，导出为jpg。
 首先需要运行edge并打开调试接口,找到edge.exe程序位置并开启debug接口并设置存储位置。
